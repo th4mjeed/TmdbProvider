@@ -1,5 +1,6 @@
 {
     "name": "TmdbProvider",
+    "manifestVersion": 1,
     "pluginLists": [
         "https://raw.githubusercontent.com/th4mjeed/TmdbProvider/main/plugins.json"
     ]
