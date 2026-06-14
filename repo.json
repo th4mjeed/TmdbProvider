@@ -1,0 +1,6 @@
+{
+    "name": "TmdbProvider",
+    "pluginLists": [
+        "https://raw.githubusercontent.com/th4mjeed/TmdbProvider/master/plugins.json"
+    ]
+}
