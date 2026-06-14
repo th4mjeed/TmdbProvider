@@ -8,11 +8,10 @@
     "authors": ["thamjeed"],
     "description": "Movies and TV Shows via TMDB",
     "fileSize": 25770,
-    "fileHash": "sha256-95ebd0c7679bf90fd0047910176169107768da2296cb88ea64b5055823b40163",
     "repositoryUrl": "https://github.com/th4mjeed/TmdbProvider",
     "language": "en",
     "tvTypes": ["Movie", "TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.themoviedb.org&sz=256",
-    "apiVersion": 10
+    "apiVersion": 1
   }
 ]
