@@ -1,18 +1,18 @@
 [
-    {
-        "url": "https://raw.githubusercontent.com/th4mjeed/TmdbProvider/main/TmdbMovies.cs3",
-        "status": 1,
-        "version": 1,
-        "name": "TMDB Movies & Shows",
-        "internalName": "TmdbMovies",
-        "authors": ["thamjeed"],
-        "description": "Movies and TV Shows via TMDB",
-        "fileSize": 25656,
-        "fileHash": "sha256-d1b122083572642370a4dbf401246b205790fe1b89d7dc04a5fd2b6a264fdf07",
-        "repositoryUrl": "https://github.com/th4mjeed/TmdbProvider",
-        "language": "en",
-        "tvTypes": ["Movie", "TvSeries"],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.themoviedb.org&sz=256",
-        "apiVersion": 1
-    }
+  {
+    "url": "https://raw.githubusercontent.com/th4mjeed/TmdbProvider/main/TmdbMovies.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "TMDB Movies & Shows",
+    "internalName": "TmdbMovies",
+    "authors": ["thamjeed"],
+    "description": "Movies and TV Shows via TMDB",
+    "fileSize": 104068,
+    "fileHash": "sha256-e4947c34ce1d1810fc576c3e81af70b50ef7e46d4df094e2cb2036052f18ec36",
+    "repositoryUrl": "https://github.com/th4mjeed/TmdbProvider",
+    "language": "en",
+    "tvTypes": ["Movie", "TvSeries"],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.themoviedb.org&sz=256",
+    "apiVersion": 1
+  }
 ]
