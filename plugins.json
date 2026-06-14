@@ -1,6 +1,6 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/th4mjeed/TmdbProvider/master/TmdbMovies.cs3",
+        "url": "https://raw.githubusercontent.com/th4mjeed/TmdbProvider/main/TmdbMovies.cs3",
         "status": 1,
         "tvTypes": ["Movie", "TvSeries"],
         "name": "TMDB Movies & Shows",
